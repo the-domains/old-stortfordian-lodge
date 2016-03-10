@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "The Old Stortfordian Lodge is a school Lodge connected with theOld Stortfordians of Bishops Stortford College.\_ The Old Stortfordian Lodge not only has Freemasonry at heart but also its direct connections with the College. Apart from the various ceremonies performed during the year, which are fun and rewarding to do, the Lodge prides itself on its fellowship and friendship. Funds raised go towards hospices and to many other needy organisations, both Masonic and non-Masonic."
-datePublished: '2016-03-10T11:23:28.388Z'
-dateModified: '2016-03-10T11:20:28.150Z'
+datePublished: '2016-03-10T12:21:19.747Z'
+dateModified: '2016-03-10T12:20:28.836Z'
 title: 'Welcome!'
 author: []
 sourcePath: _posts/2016-03-10-the-old-stortfordian-lodge-is-a-school-lodge-connected-with.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: welcome/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfbcf8221b944ba5342d269e620c784cf75b4e0a.jpg)
