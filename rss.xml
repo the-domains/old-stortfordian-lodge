@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Old Stortfordian Lodge]]></title>
         <description><![CDATA[Old Stortfordian Lodge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/old-stortfordian-lodge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 11:12:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 11:15:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/old-stortfordian-lodge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Old Stortfordian Lodge is a school Lodge connected with theOld Stortfordians of Bishops Stortford College.  The Old Stortfordian Lodge not only has Freemasonry at heart but also its direct connections with the College. Apart from the various ceremonies performed during the year, which are fun and rewarding to do, the Lodge prides itself on its fellowship and friendship. Funds raised go towards hospices and to many other needy organisations, both Masonic and non-Masonic.</p>]]></description>
-            <link>undefinedthe-old-stortfordian-lodge-is-a-school-lodge-connected-with/index.html</link>
+            <link>https://thegrid.ai/old-stortfordian-lodge/the-old-stortfordian-lodge-is-a-school-lodge-connected-with/index.html</link>
             <guid isPermaLink="false">7a17d7f5-70c2-49ea-b24c-ddbd112cf1b9</guid>
             <pubDate>Thu, 10 Mar 2016 11:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[History]]></title>
+            <description><![CDATA[<article><h1>History</h1><p>The origins of the Old Stortfordian Lodge lay in the hands of several Old Boys and Masters of the School, whose ideas and initiatives led to its foundation.  Their wish was to form a Lodge centered on the School which would accommodate those living some distance away. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bd52030cae5794d0095286f199fc67fcbbf2019.jpg"></article>]]></description>
+            <link>https://thegrid.ai/old-stortfordian-lodge/history/index.html</link>
+            <guid isPermaLink="false">c6e87ee5-99d6-4138-b766-cf911221f713</guid>
+            <pubDate>Thu, 10 Mar 2016 11:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
