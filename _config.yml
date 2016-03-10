@@ -1,7 +1,7 @@
 name: Old Stortfordian Lodge
 favicon: null
 layout_spectrum: 0.3107239797245711
-typography_spectrum: 0.7121522417291999
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.0746470675803721
-  lightness: 0.2048544604331255
-  saturation: 0.23104005586355925
+    - '#ffffff'
+    - '#7f6a3b'
+    - '#a1916f'
+    - '#bfb49d'
+    - '#342c1f'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.7290688855573535
 purpose: []
