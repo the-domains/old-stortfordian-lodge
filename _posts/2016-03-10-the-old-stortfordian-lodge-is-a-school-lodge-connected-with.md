@@ -1,28 +1,28 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: "The Old Stortfordian Lodge is a school Lodge connected with theOld Stortfordians of Bishops Stortford College.\_ The Old Stortfordian Lodge not only has Freemasonry at heart but also its direct connections with the College. Apart from the various ceremonies performed during the year, which are fun and rewarding to do, the Lodge prides itself on its fellowship and friendship. Funds raised go towards hospices and to many other needy organisations, both Masonic and non-Masonic."
-datePublished: '2016-03-10T11:10:49.684Z'
-dateModified: '2016-03-10T11:10:35.543Z'
-title: ''
+datePublished: '2016-03-10T11:19:25.924Z'
+dateModified: '2016-03-10T11:17:44.418Z'
+title: 'Welcome!'
 author: []
+sourcePath: _posts/2016-03-10-the-old-stortfordian-lodge-is-a-school-lodge-connected-with.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-the-old-stortfordian-lodge-is-a-school-lodge-connected-with.md
-published: true
-url: the-old-stortfordian-lodge-is-a-school-lodge-connected-with/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b411dde7-9adf-41ad-bf8e-d42a07fc3ae7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfbcf8221b944ba5342d269e620c784cf75b4e0a.jpg)
 
 The Old Stortfordian Lodge is a school Lodge connected with the[Old Stortfordians of Bishops Stortford College][0].  The Old Stortfordian Lodge not only has Freemasonry at heart but also its direct connections with the College. Apart from the various ceremonies performed during the year, which are fun and rewarding to do, the Lodge prides itself on its fellowship and friendship. Funds raised go towards hospices and to many other needy organisations, both Masonic and non-Masonic.
 
@@ -40,6 +40,9 @@ The current Worshipful Master is W Bro Tom Whieldon, who was installed at the re
 OS, their brothers, fathers, sons, sons-in-law, Governors of the College, Masters and past Masters of the College and anyone who has a very direct association with the College can become a member. A link with the College is an essential element to membership of the Old Stortfordian Lodge.
 
 For the past couple of years, several of the OS Lodge members have gathered with a large number of friends (both freemasons and non-freemasons) at[The Hotel Britannia Excelsior][1]on the shores of Lake Como, Italy. The Hotel is run by OS, Ross Whieldon, his wife Doriana, son, Tom and daughter-in-law Pia, also both OS. Ross was Master of the OS Lodge in 2011\. Anyone interested in the Lake Como gathering should contact us[here][2]for more information.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8231d821-d0e8-4df4-9faf-be65920b032c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1d0d2e-5e1c-435c-b46d-be863bc6fa13.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b94de73-4f2f-4de6-ba8d-0d29d1f4899e.jpg)
 
 [0]: http://www.bishops-stortford-college.herts.sch.uk/oldstortfordians/oldstortfordians/ "http://www.bishops-stortford-college.herts.sch.uk/oldstortfordians/oldstortfordians/"
 [1]: http://www.hotelbritanniacadenabbia.com/ "http://www.hotelbritanniacadenabbia.com"
