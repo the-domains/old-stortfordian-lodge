@@ -1,28 +1,40 @@
-name: Old Stortfordian Lodge
 favicon: null
-layout_spectrum: 0.24093
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Old Stortfordian Lodge
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3829787
+  brandStrength: 0.7808511
+  lightness: 0.7212766
   brandColors:
     - '#ffffff'
     - '#7f6a3b'
     - '#a1916f'
     - '#bfb49d'
     - '#342c1f'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.1875
-  rhythmicContrast: 0.7290688855573535
-purpose: []
+  rhythmicContrast: 0
+typography_spectrum: 1
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
